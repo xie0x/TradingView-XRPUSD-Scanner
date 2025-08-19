@@ -137,7 +137,7 @@ const main = async () => {
 
     const formattedDate = new Date().toISOString()
 
-    await fs.writeJson('datxrp.json', { updated: formattedDate, data }, { spaces: 2 })
+    await fs.writeJson('dataxrp.json', { updated: formattedDate, data }, { spaces: 2 })
 
     const historyFile = 'xrpprice_history.json'
     let history = []
