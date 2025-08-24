@@ -1,7 +1,7 @@
 # TradingView XRPUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 24 August 2025 at 23:43:26 (GMT+7)
-## Price Now: $3.03
+## Last updated: 25 August 2025 at 00:31:35 (GMT+7)
+## Price Now: $3.04
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 XRPUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ XRPUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $49.34 | $31.13 | $26.61 | -$59.77 | $14.43 | $18.04 | -$0.01 | -$0.01 | -$0.00 | $0.00 | -$53.92 | $3.02 |
+| $54.21 | $47.43 | $35.05 | $2.51 | $14.64 | $16.92 | -$0.01 | $0.00 | -$0.00 | $0.00 | -$31.69 | $3.03 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ XRPUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $3.02 | $3.02 | $3.03 | $3.04 | $3.03 | $3.03 | $3.01 | $3.04 | $3.00 | $2.97 | $3.01 | $3.00 |
+| $3.03 | $3.02 | $3.03 | $3.04 | $3.03 | $3.03 | $3.02 | $3.04 | $3.00 | $2.97 | $3.01 | $3.00 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
