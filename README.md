@@ -1,7 +1,7 @@
 # TradingView XRPUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 2 September 2025 at 02:23:04 (GMT+7)
-## Price Now: $2.76
+## Last updated: 2 September 2025 at 03:32:07 (GMT+7)
+## Price Now: $2.77
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 XRPUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ XRPUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $46.44 | $30.78 | $31.02 | -$4.30 | $21.65 | $27.54 | -$0.03 | -$0.05 | -$0.01 | -$0.01 | -$66.08 | $2.74 |
+| $49.14 | $42.70 | $35.88 | $28.86 | $20.43 | $26.22 | -$0.03 | -$0.02 | -$0.01 | -$0.01 | -$57.12 | $2.76 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
